@@ -4,58 +4,63 @@
 
 ### Fullstack Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloudyWSA)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </div>
 
-## 💻 Technology Expertise
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/>
+</div>
 
-### Frontend
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+---
 
-### Backend & Infrastructure
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+## Tech Stack Overview
 
-## 📊 Skill Proficiency
-
-```text
-Frontend Development    ███████████████████░   95%
-Backend Development    ██████████████████░░   90%
-TypeScript            ██████████████████░░   90%
-React/Next.js         ███████████████████░   95%
-Vue.js                ████████████████░░░░   85%
-Database Management   ████████████████░░░░   85%
-GCP                   ███████████████░░░░░   80%
+### 🎨 Frontend
+```js
+{
+  "frameworks": {
+    "primary": ["React", "Next.js"],
+    "secondary": ["Vue.js"]
+  },
+  "languages": ["TypeScript", "JavaScript"],
+  "styling": ["Tailwind CSS", "CSS3", "SASS"]
+}
 ```
 
-## 🔍 Expertise Details
+### 🛠 Backend & Infrastructure
+```js
+{
+  "databases": {
+    "relational": ["PostgreSQL", "SQLite"],
+    "skills": ["Database Design", "Query Optimization"]
+  },
+  "cloud": {
+    "platform": "Google Cloud Platform",
+    "services": ["Cloud Run", "Cloud Storage", "Cloud SQL"]
+  }
+}
+```
 
-| Skill | Technologies |
-|-------|-------------|
-| Frontend Development | React, Next.js, Vue.js |
-| Backend Development | API Design, Database Management |
-| TypeScript | Advanced Type Systems, Best Practices |
-| React/Next.js | Component Architecture, SSR/SSG |
-| Vue.js | Vue 3, Composition API |
-| Database Management | PostgreSQL, SQLite |
-| GCP | Cloud Infrastructure, Services |
-
-## 📈 GitHub Stats
+## Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudyWSA&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudyWSA&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyWSA&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  
+### Let's Connect and Create Something Amazing!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloudyWSA)
+
 </div>
