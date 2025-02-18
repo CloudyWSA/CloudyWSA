@@ -1,37 +1,61 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CloudyWSA/CloudyWSA/main/banner.png" alt="Banner" width="100%" />
-</p>
+<div align="center">
+  
+# CloudyWSA
 
-# 👋 Hi, I'm Matheus!
-💻 Full Stack Developer  
-🚀 Passionate about technology and innovation  
-📍 Based in [Your Location]  
+### Fullstack Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloudyWSA)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+
+</div>
+
+## 💻 Technology Expertise
+
+### Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+### Backend & Infrastructure
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+
+## 📊 Skill Proficiency
+
+```text
+Frontend Development    ███████████████████░   95%
+Backend Development    ██████████████████░░   90%
+TypeScript            ██████████████████░░   90%
+React/Next.js         ███████████████████░   95%
+Vue.js                ████████████████░░░░   85%
+Database Management   ████████████████░░░░   85%
+GCP                   ███████████████░░░░░   80%
+```
+
+## 🔍 Expertise Details
+
+| Skill | Technologies |
+|-------|-------------|
+| Frontend Development | React, Next.js, Vue.js |
+| Backend Development | API Design, Database Management |
+| TypeScript | Advanced Type Systems, Best Practices |
+| React/Next.js | Component Architecture, SSR/SSG |
+| Vue.js | Vue 3, Composition API |
+| Database Management | PostgreSQL, SQLite |
+| GCP | Cloud Infrastructure, Services |
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudyWSA&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
 ---
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CloudyWSA&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CloudyWSA&theme=radical" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyWSA&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-baroni-702172231/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/Cloudylol19)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:matheusbaronicontato@gmail.com)
-
----
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
