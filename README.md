@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: #0D1117; color: white; padding: 20px; border-radius: 10px;">
   
 # CloudyWSA
 
@@ -55,5 +55,8 @@
 ### 🌍 Let's Connect and Create Something Amazing!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloudyWSA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-baroni-702172231/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cloudylol19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusbaronicontato@gmail.com)
 
 </div>
